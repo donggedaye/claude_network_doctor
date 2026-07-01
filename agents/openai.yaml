@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Network Doctor"
+  short_description: "只读检测 Claude/Claude Code 的代理、TUN、DNS、IPv6、endpoint 与出口风险"
+  default_prompt: "Use $claude-network-doctor to audit my local Claude/Claude Code proxy, TUN, DNS, IPv6, endpoint, and exit IP risk posture."
